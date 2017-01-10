@@ -7,4 +7,4 @@
 	<body>
 		<h1>Files Explorer</h1>
 	</body>
-</html>	
+</html>
